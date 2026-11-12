@@ -20,6 +20,7 @@ Examples for all supported LLM providers in Agno.
 | **llama.cpp** | Local GGUF | Local |
 | **llmman** | Local models as OCI artifacts | Local |
 | **Tuning Engines** | Governed OpenAI-compatible endpoint | `TUNING_ENGINES_API_KEY` |
+| **HopBase** | GPT, Claude, GLM, DeepSeek, Kimi, Qwen behind one base URL | `HOPBASE_API_KEY` |
 
 ## Getting Started
 
